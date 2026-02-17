@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    // Estrutura de arquivos
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Ambiente
+    "module": "commonjs",
+    "target": "ES2020",
+    "lib": ["esnext"],
+    "types": ["node"],
+
+    // Saídas
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    // Tipagem
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  }
+}
