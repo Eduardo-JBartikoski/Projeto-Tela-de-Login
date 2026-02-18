@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     // Estrutura de arquivos
-    "rootDir": "./src",
+    "rootDir": "./",
     "outDir": "./dist",
 
     // Ambiente
